@@ -1,0 +1,14 @@
+.floor {
+  background-color: black;
+  padding: 2px;
+  margin: 100px;
+  border: 1px solid #e6e6e6;
+  text-align: center;
+}
+
+.lift {
+  background-color: aqua;
+  width: 50px;
+  height: 100px;
+  margin: 10px;
+}
